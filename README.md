@@ -1,16 +1,1 @@
-# oruphones
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I have used GetX provider in order to obtain the listings. I have tried to reduce the number of StatefulWidgets and create more efficient widgets to take less space. I have added cache width and cache height to all the images to reduce the memory usage of the app. I have tried to use the most efficient and clean packages for code building for this app. you can run the apk using 'flutter run' on an emulator or use the apk on your phone. The code here can be forked and executed on VSCODE using run without debugging with an emulator open to view the results.
